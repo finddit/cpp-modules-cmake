@@ -11,7 +11,21 @@ make
 
 then simply run
 ```
-main
+./main
+```
+
+Output should be
+```
+./main 
+1
+2
+3
+4
+5
+6
+101
+Hello::Hello: 45
+Hello Module! Data is 123
 ```
 
 Happy coding! :)
